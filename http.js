@@ -1,5 +1,5 @@
 export default {
-    port: 8080,
+    port: 3000,
     fetch(request) {
       return new Response("Welcome to Bun!");
     },

@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "cc2c0a7f-a78e-4fcd-9c88-b0f6dd46be25",
+		"name": "BUN",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "1739315"
+	},
+	"item": [
+		{
+			"name": "my-blank-app",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "my-blank-app",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
