@@ -8,7 +8,7 @@
 ```
 
  ## Commands 
- 1. `bun dev` command starts a local server(on default port 3000) and waits for the changes,
+ 1. `bun dev` command starts a local server(on default port 3000)
  2. `bun create` or `bun c`  
 
 
